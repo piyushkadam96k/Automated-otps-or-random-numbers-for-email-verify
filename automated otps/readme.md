@@ -68,4 +68,8 @@ This project is open source and available under the MIT License.
 
 ## 📞 Contact
 
+kadamamit462@gmail.com 
+7829396954
+whatsapp only plzz
 Created by [Amit kadam] - feel free to contact me!
+
