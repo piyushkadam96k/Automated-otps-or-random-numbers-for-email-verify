@@ -15,7 +15,9 @@ while True:
         print("❌ Error: Please enter a valid Gmail ending with @gmail.com")
 
 # Load environment variables (optional)
-load_dotenv(r"c:\Users\kadam\OneDrive\Documents\python\function py\.env")
+# load_dotenv(r"c:\Users\)     user your own 
+
+load_dotenv
 
 # Gmail credentials
 sender_email = "own email"
@@ -61,3 +63,4 @@ def send_email():
         print(f"❌ Failed to send email: {e}")
 
 send_email()
+
